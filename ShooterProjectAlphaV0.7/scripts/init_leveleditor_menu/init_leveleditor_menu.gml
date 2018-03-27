@@ -1,0 +1,1 @@
+global.leveleditormenu = ds_list_create();
